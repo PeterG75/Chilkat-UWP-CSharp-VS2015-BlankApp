@@ -1,0 +1,1 @@
+C:\CkGitHubProjects\Chilkat-UWP-CSharp-VS2015-BlankApp\Chilkat-UWP-CSharp-VS2015-BlankApp.csproj;x86

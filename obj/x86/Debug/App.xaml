@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="Chilkat_UWP_CSharp_VS2015_BlankApp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Chilkat_UWP_CSharp_VS2015_BlankApp"
+    RequestedTheme="Light">
+
+</Application>
+
